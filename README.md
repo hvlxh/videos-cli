@@ -8,7 +8,7 @@ An CLI to download videos from various platforms! (Recommended to use Node >17.x
 3. TikTok
 
 ## Installation
-1. Run the command `npm i videos-cli --global`
+1. Run the command `npm i github:hvlxh/videos-cli --global`
 2. You have the access to the command `videos`!.
 
 ## Contributing
